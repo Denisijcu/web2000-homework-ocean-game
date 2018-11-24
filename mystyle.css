@@ -208,6 +208,10 @@ body{
     box-shadow: 4px 4px 4px black;
 }
 
+p {
+    text-align: justify;
+}
+
 
 
 
@@ -218,5 +222,7 @@ img {
     min-height: auto;
 }
 
-
+.card-text{
+   text-align: center;
+}
 
